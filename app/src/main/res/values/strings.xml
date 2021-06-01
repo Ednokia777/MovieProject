@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Movie Project</string>
+    <string name="web_page_for_posters">Картинки взяты с https://www.movieposters.com</string>
+    <string name="btn_menu">Меню</string>
+    <string name="btn_favorite">Избранное</string>
+    <string name="btn_see_later">Посмотреть позже</string>
+    <string name="btn_choice">Подборки</string>
+    <string name="settingsbtn">Настройки</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_favorites_title">Favorite</string>
+    <string name="menu_watch_later_title">See later</string>
+    <string name="menu_selections_title">Selections</string>
+    <string name="page_title">Title</string>
 </resources>
