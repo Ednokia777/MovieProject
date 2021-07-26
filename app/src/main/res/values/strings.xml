@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Movie Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">title</string>
+    <string name="menu_favorites_title">fvorites</string>
+    <string name="menu_watch_later_title">watch later</string>
+    <string name="menu_selections_title">selections</string>
+    <string name="menu_settings_title">settings</string>
+    <string name="disclaimer">oops</string>
 </resources>
